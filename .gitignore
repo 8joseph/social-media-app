@@ -45,3 +45,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+.android/
+.ios/
+.gradle/
+**/local.properties
+**/Generated.xcconfig
+**/Flutter/ephemeral/
+**/Pods/
+**/Podfile.lock
